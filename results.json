@@ -1,0 +1,482 @@
+[
+    {
+        "flights": [
+            {
+                "flight_no": "DX491",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-10 09:55:00",
+                "arrival": "2021-09-10 11:40:00",
+                "base_price": "12.0",
+                "bag_price": "9",
+                "bags_allowed": 1
+            }
+        ],
+        "bags_allowed": 1,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "21.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "DX491",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-05 09:55:00",
+                "arrival": "2021-09-05 11:40:00",
+                "base_price": "12.0",
+                "bag_price": "9",
+                "bags_allowed": 1
+            }
+        ],
+        "bags_allowed": 1,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "21.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "DX491",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-02 09:55:00",
+                "arrival": "2021-09-02 11:40:00",
+                "base_price": "12.0",
+                "bag_price": "9",
+                "bags_allowed": 1
+            }
+        ],
+        "bags_allowed": 1,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "21.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "SJ497",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-12 14:30:00",
+                "arrival": "2021-09-12 16:15:00",
+                "base_price": "16.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "30.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "SJ497",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-07 14:30:00",
+                "arrival": "2021-09-07 16:15:00",
+                "base_price": "16.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "30.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "SJ497",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-03 14:30:00",
+                "arrival": "2021-09-03 16:15:00",
+                "base_price": "16.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "30.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "SJ497",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-01 14:30:00",
+                "arrival": "2021-09-01 16:15:00",
+                "base_price": "16.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "30.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "QG688",
+                "origin": "GXV",
+                "destination": "YOT",
+                "departure": "2021-09-01 10:15:00",
+                "arrival": "2021-09-01 14:20:00",
+                "base_price": "128.0",
+                "bag_price": "10",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "QG339",
+                "origin": "YOT",
+                "destination": "IUT",
+                "departure": "2021-09-01 18:25:00",
+                "arrival": "2021-09-01 22:45:00",
+                "base_price": "137.0",
+                "bag_price": "10",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "SJ609",
+                "origin": "IUT",
+                "destination": "LOM",
+                "departure": "2021-09-02 03:50:00",
+                "arrival": "2021-09-02 06:05:00",
+                "base_price": "48.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "347.0",
+        "travel_time": "19:50:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "SJ462",
+                "origin": "GXV",
+                "destination": "YOT",
+                "departure": "2021-09-01 10:55:00",
+                "arrival": "2021-09-01 15:00:00",
+                "base_price": "142.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "QG339",
+                "origin": "YOT",
+                "destination": "IUT",
+                "departure": "2021-09-01 18:25:00",
+                "arrival": "2021-09-01 22:45:00",
+                "base_price": "137.0",
+                "bag_price": "10",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "SJ609",
+                "origin": "IUT",
+                "destination": "LOM",
+                "departure": "2021-09-02 03:50:00",
+                "arrival": "2021-09-02 06:05:00",
+                "base_price": "48.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "365.0",
+        "travel_time": "19:10:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "QG688",
+                "origin": "GXV",
+                "destination": "YOT",
+                "departure": "2021-09-01 10:15:00",
+                "arrival": "2021-09-01 14:20:00",
+                "base_price": "128.0",
+                "bag_price": "10",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "DX288",
+                "origin": "YOT",
+                "destination": "IUT",
+                "departure": "2021-09-01 17:35:00",
+                "arrival": "2021-09-01 21:55:00",
+                "base_price": "160.0",
+                "bag_price": "9",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "SJ609",
+                "origin": "IUT",
+                "destination": "LOM",
+                "departure": "2021-09-02 03:50:00",
+                "arrival": "2021-09-02 06:05:00",
+                "base_price": "48.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "369.0",
+        "travel_time": "19:50:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "SJ462",
+                "origin": "GXV",
+                "destination": "YOT",
+                "departure": "2021-09-01 10:55:00",
+                "arrival": "2021-09-01 15:00:00",
+                "base_price": "142.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "DX288",
+                "origin": "YOT",
+                "destination": "IUT",
+                "departure": "2021-09-01 17:35:00",
+                "arrival": "2021-09-01 21:55:00",
+                "base_price": "160.0",
+                "bag_price": "9",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "SJ609",
+                "origin": "IUT",
+                "destination": "LOM",
+                "departure": "2021-09-02 03:50:00",
+                "arrival": "2021-09-02 06:05:00",
+                "base_price": "48.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "387.0",
+        "travel_time": "19:10:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "QG809",
+                "origin": "GXV",
+                "destination": "IUQ",
+                "departure": "2021-09-01 07:40:00",
+                "arrival": "2021-09-01 08:50:00",
+                "base_price": "17.0",
+                "bag_price": "10",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "SJ461",
+                "origin": "IUQ",
+                "destination": "YOT",
+                "departure": "2021-09-01 11:25:00",
+                "arrival": "2021-09-01 16:40:00",
+                "base_price": "233.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "QG339",
+                "origin": "YOT",
+                "destination": "IUT",
+                "departure": "2021-09-01 18:25:00",
+                "arrival": "2021-09-01 22:45:00",
+                "base_price": "137.0",
+                "bag_price": "10",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "SJ609",
+                "origin": "IUT",
+                "destination": "LOM",
+                "departure": "2021-09-02 03:50:00",
+                "arrival": "2021-09-02 06:05:00",
+                "base_price": "48.0",
+                "bag_price": "14",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "483.0",
+        "travel_time": "22:25:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "DX390",
+                "origin": "GXV",
+                "destination": "YOT",
+                "departure": "2021-09-01 19:15:00",
+                "arrival": "2021-09-01 23:20:00",
+                "base_price": "133.0",
+                "bag_price": "9",
+                "bags_allowed": 2
+            },
+            {
+                "flight_no": "QG767",
+                "origin": "YOT",
+                "destination": "LOM",
+                "departure": "2021-09-02 00:55:00",
+                "arrival": "2021-09-02 06:45:00",
+                "base_price": "357.0",
+                "bag_price": "10",
+                "bags_allowed": 2
+            }
+        ],
+        "bags_allowed": 2,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "509.0",
+        "travel_time": "11:30:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "QG662",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-18 22:50:00",
+                "arrival": "2021-09-19 00:35:00",
+                "base_price": "43.0",
+                "bag_price": "10",
+                "bags_allowed": 1
+            }
+        ],
+        "bags_allowed": 1,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "53.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "QG662",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-12 22:50:00",
+                "arrival": "2021-09-13 00:35:00",
+                "base_price": "43.0",
+                "bag_price": "10",
+                "bags_allowed": 1
+            }
+        ],
+        "bags_allowed": 1,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "53.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "QG662",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-07 22:50:00",
+                "arrival": "2021-09-08 00:35:00",
+                "base_price": "43.0",
+                "bag_price": "10",
+                "bags_allowed": 1
+            }
+        ],
+        "bags_allowed": 1,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "53.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "QG662",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-04 22:50:00",
+                "arrival": "2021-09-05 00:35:00",
+                "base_price": "43.0",
+                "bag_price": "10",
+                "bags_allowed": 1
+            }
+        ],
+        "bags_allowed": 1,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "53.0",
+        "travel_time": "1:45:00"
+    },
+    {
+        "flights": [
+            {
+                "flight_no": "QG662",
+                "origin": "GXV",
+                "destination": "LOM",
+                "departure": "2021-09-02 22:50:00",
+                "arrival": "2021-09-03 00:35:00",
+                "base_price": "43.0",
+                "bag_price": "10",
+                "bags_allowed": 1
+            }
+        ],
+        "bags_allowed": 1,
+        "bags_count": 1,
+        "destination": "LOM",
+        "origin": "GXV",
+        "total_price": "53.0",
+        "travel_time": "1:45:00"
+    }
+]
